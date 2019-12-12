@@ -1,1 +1,1 @@
-Webpack Project [![Build Status](https://travis-ci.org/coursar/webpack-js-demo.svg?branch=master)](https://travis-ci.org/coursar/webpack-js-demo)
+Webpack Project [![Build Status](https://travis-ci.org/Nikolay0951/dz9-frontend.svg?branch=master)](https://travis-ci.org/Nikolay0951/dz9-frontend)
